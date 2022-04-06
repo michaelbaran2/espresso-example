@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EspressoExample</string>
+    <string name="hello_there">Hello There</string>
+    <string name="general_kenobi">General Kenobi</string>
+</resources>
